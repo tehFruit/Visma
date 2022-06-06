@@ -1,0 +1,15 @@
+C:\Users\Robertas\Desktop\Visma\Meetings\bin\Debug\net6.0\Meetings.exe
+C:\Users\Robertas\Desktop\Visma\Meetings\bin\Debug\net6.0\Meetings.deps.json
+C:\Users\Robertas\Desktop\Visma\Meetings\bin\Debug\net6.0\Meetings.runtimeconfig.json
+C:\Users\Robertas\Desktop\Visma\Meetings\bin\Debug\net6.0\Meetings.dll
+C:\Users\Robertas\Desktop\Visma\Meetings\bin\Debug\net6.0\Meetings.pdb
+C:\Users\Robertas\Desktop\Visma\Meetings\obj\Debug\net6.0\Meetings.csproj.AssemblyReference.cache
+C:\Users\Robertas\Desktop\Visma\Meetings\obj\Debug\net6.0\Meetings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robertas\Desktop\Visma\Meetings\obj\Debug\net6.0\Meetings.AssemblyInfoInputs.cache
+C:\Users\Robertas\Desktop\Visma\Meetings\obj\Debug\net6.0\Meetings.AssemblyInfo.cs
+C:\Users\Robertas\Desktop\Visma\Meetings\obj\Debug\net6.0\Meetings.csproj.CoreCompileInputs.cache
+C:\Users\Robertas\Desktop\Visma\Meetings\obj\Debug\net6.0\Meetings.dll
+C:\Users\Robertas\Desktop\Visma\Meetings\obj\Debug\net6.0\refint\Meetings.dll
+C:\Users\Robertas\Desktop\Visma\Meetings\obj\Debug\net6.0\Meetings.pdb
+C:\Users\Robertas\Desktop\Visma\Meetings\obj\Debug\net6.0\Meetings.genruntimeconfig.cache
+C:\Users\Robertas\Desktop\Visma\Meetings\obj\Debug\net6.0\ref\Meetings.dll

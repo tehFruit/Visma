@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meetings", "Meetings.csproj", "{77472911-00BE-4EF3-8A88-86A339C3888C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meetings.UnitTests", "..\Meetings.UnitTests\Meetings.UnitTests.csproj", "{3367F7A3-FB0E-4273-8A1A-34135C5DDF7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77472911-00BE-4EF3-8A88-86A339C3888C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77472911-00BE-4EF3-8A88-86A339C3888C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77472911-00BE-4EF3-8A88-86A339C3888C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77472911-00BE-4EF3-8A88-86A339C3888C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3367F7A3-FB0E-4273-8A1A-34135C5DDF7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3367F7A3-FB0E-4273-8A1A-34135C5DDF7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3367F7A3-FB0E-4273-8A1A-34135C5DDF7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3367F7A3-FB0E-4273-8A1A-34135C5DDF7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A61A912-414C-4751-BD60-83F4F753343F}
+	EndGlobalSection
+EndGlobal
